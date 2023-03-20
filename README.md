@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hugo</h1>
 <h3 align="center">A new game and frontend developer from Spain :)</h3>
 
-- I’m currently on *A sequel of one of my games**
+- I’m currently on **A sequel of one of my games**
 
 - I’m currently learning **devops in aws and game design**
 
