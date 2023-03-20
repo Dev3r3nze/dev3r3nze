@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Hugo</h1>
 <h3 align="center">A new game and frontend developer from Spain :)</h3>
 
-- I’m currently on **DeployX and a sequel of one of my games**
+- I’m currently on *A sequel of one of my games**
 
 - I’m currently learning **devops in aws and game design**
-
-- I’m looking for help with **DeployXLabs, a small agency for new devs looking for their first laboral experience**
 
 - All of my projects are available at [dev3r3nze.github.io/Portfolio](dev3r3nze.github.io/Portfolio)
 
@@ -13,10 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/dev3r3nze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dev3r3nze" height="30" width="40" /></a>
-<a href="https://twitter.com/dev3r3nze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev3r3nze" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dev3r3nze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dev3r3nze" height="30" width="40" /></a>
-<a href="https://linktr.ee/dev3r3nze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://linktr.ee/dev3r3nze" height="30" width="40" /></a>
+<a href="https://codepen.io/dev3r3nze" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dev3r3nze" height="30" width="40" /></a>
+<a href="https://twitter.com/dev3r3nze" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev3r3nze" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/dev3r3nze" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dev3r3nze" height="30" width="40" /></a>
+<a href="https://linktr.ee/dev3r3nze" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://linktr.ee/dev3r3nze" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
