@@ -5,7 +5,7 @@
 
 - I’m currently learning **devops in aws and game design**
 
-- All of my projects are available at [dev3r3nze.github.io/Portfolio](dev3r3nze.github.io/Portfolio)
+- All of my projects are available at my [portfolio](dev3r3nze.github.io/Portfolio)
 
 - How to reach me **dev3r3nze@gmail.com**
 
