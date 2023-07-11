@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Hugo</h1>
 <h3 align="center">Un nuevo desarrollador de videojuegos y web español :)</h3>
 
-- Actualmente estoy haciendo las prácticas del grado superior de DAW en **GrowPro Experience**
+- Actualmente estoy buscando nuevos proyectos para desarrollar!
 
 - Ahora estoy aprendiendo **DevOps en AWS y game design**
 
