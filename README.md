@@ -3,7 +3,7 @@
 
 - Actualmente estoy buscando nuevos proyectos para desarrollar!
 
-- Ahora estoy aprendiendo **DevOps en AWS y game design**
+- Ahora estoy aprendiendo **game design y marketing**
 
 - Mis proyectos están disponibles en mi [portfolio](dev3r3nze.github.io/Portfolio)
 
