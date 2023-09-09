@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Hugo</h1>
 <h3 align="center">Un nuevo desarrollador de videojuegos y web español :)</h3>
 
-- Actualmente estoy buscando nuevos proyectos para desarrollar!
+- Actualmente estoy buscando nuevos proyectos y aprendiendo más y más!
 
 - Ahora estoy aprendiendo **game design y marketing**
 
