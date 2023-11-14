@@ -5,7 +5,7 @@
 
 - Ahora estoy aprendiendo **game design y marketing**
 
-- Mis proyectos están disponibles en mi [portfolio](dev3r3nze.github.io/Portfolio)
+- Mis proyectos están disponibles en mi [portfolio](https://dev3r3nze.github.io/Portfolio/)
 
 <h3 align="left">Búscame:</h3>
 <p align="left">
