@@ -2,9 +2,8 @@
 <h3 align="center">Un desarrollador de videojuegos y web español :)</h3>
 
 - Actualmente estoy estudiando un grado superior de marketing
-
 - Ahora estoy aprendiendo **game design y marketing**
-
+- Visita mi proyecto actual [aquí](https://dev3r3nze.github.io/gifphy/)
 - Mis proyectos están disponibles en mi [portfolio](https://dev3r3nze.github.io/Portfolio/)
 
 <h3 align="left">Búscame:</h3>
